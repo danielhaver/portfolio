@@ -1,4 +1,4 @@
-Data visualization using scatter_geo from Plotly Express
+<b>Data visualization using scatter_geo from Plotly Express</b>
 
 Download html file for interactive visualizations, view static content with pdf file
 
