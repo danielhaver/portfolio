@@ -1,5 +1,7 @@
 <h3>Exploration and analysis of +9M beer ratings and reviews</h3>
 
+<br>
+
 <b>final_report.pdf</b> - Summary report with final analysis.
 
 <b>data_combine_clean.html</b> - Cleans and joins datasets for breweries and beers.
@@ -15,5 +17,6 @@
 <b>code</b> - All Jupyter notebook files.
 
 <br>
+
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/41025642/234622001-6dbc77ab-b3e8-4d4d-8705-c8f96b49941d.png">
 
