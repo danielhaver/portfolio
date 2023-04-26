@@ -1,4 +1,4 @@
-## Exploration and analysis of +9M beer ratings and reviews
+### Exploration and analysis of +9M beer ratings and reviews
 
 <br>
 
