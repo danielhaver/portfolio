@@ -1,4 +1,4 @@
-<h2>Exploration and analysis of +9M beer ratings and reviews</h2>
+<h3>Exploration and analysis of +9M beer ratings and reviews</h3>
 
 <b>final_report.pdf</b> - Summary report with final analysis.
 
