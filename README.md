@@ -1,5 +1,5 @@
 # portfolio
-Current and previous machine learning models and data analysis.
+Sample of current and previous machine learning models and data analysis.
 
 <br>
 
