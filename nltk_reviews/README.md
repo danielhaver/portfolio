@@ -1,4 +1,4 @@
-<h>Exploration and analysis of +9M beer ratings and reviews</h>
+<h1>Exploration and analysis of +9M beer ratings and reviews</h1>
 
 <b>final_report.pdf</b> - Summary report with final analysis.
 
@@ -14,6 +14,6 @@
 
 <b>code</b> - All Jupyter notebook files.
 
-
-
+<p>
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/41025642/234622001-6dbc77ab-b3e8-4d4d-8705-c8f96b49941d.png">
+</p>
