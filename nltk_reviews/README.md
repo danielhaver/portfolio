@@ -1,4 +1,4 @@
-b>Exploration and analysis of +9M beer ratings and reviews</b>
+<h>Exploration and analysis of +9M beer ratings and reviews</h>
 
 <b>final_report.pdf</b> - Summary report with final analysis.
 
@@ -12,6 +12,8 @@ b>Exploration and analysis of +9M beer ratings and reviews</b>
 
 <b>popular_attributes.html</b> - Identifies characteristics of highest rated style and includes a visualizations using WordCloud libraries. 
 
-<b>code</b> = All Jupyter notebook files.
+<b>code</b> - All Jupyter notebook files.
+
+
 
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/41025642/234622001-6dbc77ab-b3e8-4d4d-8705-c8f96b49941d.png">
