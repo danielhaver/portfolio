@@ -1,4 +1,4 @@
-<h3>Exploration and analysis of +9M beer ratings and reviews</h3>
+## Exploration and analysis of +9M beer ratings and reviews
 
 <br>
 
