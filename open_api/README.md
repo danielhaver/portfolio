@@ -1,6 +1,5 @@
 ### Medium article – Create an AI Generated Background for LinkedIn
 https://medium.com/@danielhaver/create-an-ai-generated-background-for-linkedin-483a73489f66
-
 <br>
 
 Article describing how to use APIs for DALL-E (OpenAI) to generate a personalized image that can be used for a LinkedIn profile background.	
@@ -11,5 +10,5 @@ Article describing how to use APIs for DALL-E (OpenAI) to generate a personalize
 
 <br>
 
-![image](https://github.com/danielhaver/portfolio/assets/41025642/c2b73a15-a274-4908-8d3b-0752b86f7f1f)
+<img width="701" alt="image" src="https://github.com/danielhaver/portfolio/assets/41025642/c8baafc0-4c72-4b82-8816-4b149c07e521">
 
