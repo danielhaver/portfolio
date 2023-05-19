@@ -9,3 +9,7 @@ Article describing how to use APIs for DALL-E (OpenAI) to generate a personalize
 
 <b>python_dall-e.ipynb</b> - Jupyter notebook file with API call.
 
+<br>
+
+![image](https://github.com/danielhaver/portfolio/assets/41025642/c2b73a15-a274-4908-8d3b-0752b86f7f1f)
+
