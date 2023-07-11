@@ -12,3 +12,5 @@ Project descriptions:
 <b>open_api</b> - Medium article that shows how to use DALL-E APIs in Python to return a personalized AI generated image.
 
 <b>scatter_geo</b> – Quick introduction and demonstration using the scatter_geo function from Plotly Express to create a geographic visualization using minimal code.
+
+<basics> - Various code samples with basic building blocks for algorithms and metrics.
